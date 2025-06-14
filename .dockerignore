@@ -1,0 +1,6 @@
+
+chat-client
+chat-client.exe
+*.exe
+*.log
+client.go
